@@ -1,5 +1,5 @@
 //# empLOYEE (JAVA CODE)
- //Taking details of employees and displaying them and finding foreign employee and most valuable employee
+//Taking details of employees and displaying them and finding foreign employee and most valuable employee
  import java.util.*;
 
  class Date
